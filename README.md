@@ -1,4 +1,3 @@
-Aquí tienes una versión **más pequeña y en inglés** para tu `README.md`:
 
 ---
 
