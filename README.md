@@ -34,21 +34,6 @@ A simple wallet prototype that allows payments, transfers, and financial managem
 - Fast and secure blockchain transactions.  
 - User-friendly interface for non-technical users.
 
----
 
-### **File Structure**
-
-```
-Project/
-├── Images/
-│   ├── imagen1.png
-│   ├── imagen2.png
-│   ├── imagen3.png
-│   ├── imagen4.png
-│   ├── imagen5.png
-├── README.md
-```
-
----
 
 With this wallet, Bitcoin becomes an easy, fast, and accessible payment method for everyone. 🚀
