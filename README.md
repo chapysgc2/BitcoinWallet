@@ -4,7 +4,7 @@ Aquí tienes una versión **más pequeña y en inglés** para tu `README.md`:
 
 # **Bitcoin Wallet Prototype**
 
-![Main Screen](Images/imagen1.png)
+![Main Screen](images/imagen1.png)
 
 ## **Project Description**
 
@@ -15,16 +15,16 @@ A simple wallet prototype that allows payments, transfers, and financial managem
 ## **Features**
 
 - **Service Payments**: Pay for utilities like water, electricity, and internet.  
-  ![Service Payments](Images/imagen2.png)  
+  ![Service Payments](images/imagen2.png)  
 
 - **Fast Transfers**: Send and receive Bitcoin instantly.  
-  ![Transfers](Images/imagen3.png)  
+  ![Transfers](images/imagen3.png)  
 
 - **Shopping**: Use Bitcoin for purchases in stores or online.  
-  ![Shopping](Images/imagen4.png)  
+  ![Shopping](images/imagen4.png)  
 
 - **Money Management**: Track your balance, transactions, and conversions.  
-  ![Money Management](Images/imagen5.png)  
+  ![Money Management](images/imagen5.png)  
 
 ---
 
